@@ -4,7 +4,7 @@ print("hello","hmm",sep=' ' )
 print("hello","hmm" ,"ok",sep =" ok ")
 
 print("hello","idk ",end='\n')
-print("kfklf","nfnrj","jiofioho",end='\nmiefniof)
+print("kfklf","nfnrj","jiofioho",end='\nmiefniof')
 
 
 # format string(f string)
@@ -20,8 +20,7 @@ print(name)
 # remove whitespace from str
 name = name.strip()
 
-
-
+print("hello",name)
 
 
 
