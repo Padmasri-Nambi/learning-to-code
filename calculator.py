@@ -15,18 +15,18 @@ z=(x+y)
 
 print(z)
 
+# float(dicemals like 1.3,4.6,2.0)
+x=float(input("what's x?"))
+y=float(input("what's y?")) 
+print(x+y)          
 
 
 
+x=float(input("what's x?"))
+y=float(input("what's y?")) 
 
-
-
-
-
-
-
-
-
+z=round(x/y,3)
+print(z)
 
 
 
