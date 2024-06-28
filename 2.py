@@ -1,5 +1,5 @@
 
-name = "paddu"
+name = "pad   du"
 print("hello","hmm",sep=' ' )
 print("hello","hmm" ,"ok",sep =" ok ")
 
@@ -17,13 +17,13 @@ print(f"hello",name)
 
 print("what is ur name")
 print(name)
-# remove whitespace from str
-name = name.strip()
+# remove whitespace from str at starting
+
+name=name.strip()
 
 print("hello",name)
 
-
-
+print("hello","hmm","ok",sep="   hi   ",end='\n ha ha ha ha ')
 
 
 
